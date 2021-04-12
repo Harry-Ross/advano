@@ -1,0 +1,18 @@
+{
+    "id": [
+        0,
+        1
+    ],
+    "name": [
+        "meat",
+        "spear"
+    ],
+    "image": [],
+    "imagePath": [
+        "Items/meatImage"
+    ],
+    "modelPath": [
+        "Items/meatModel"
+    ],
+    "amount": []
+}
